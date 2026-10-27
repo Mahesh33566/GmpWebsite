@@ -1,0 +1,8 @@
+{
+  "name": "Web Studio Launchpad",
+  "description": "Explore, prototype, and build production-ready modern websites and web applications with live responsive previews and customizable templates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
